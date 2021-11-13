@@ -1,7 +1,7 @@
 ### Hi there 👋  
 I'm KC Chiu  
 🌱 I’m currently learning Dart and Flutter  
-📫 How to reach me: kcchiu88@gmail.com
+📫 Reach me: kcchiu88@gmail.com
 
 <!--
 **kc-chiu/kc-chiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
